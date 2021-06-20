@@ -4,18 +4,21 @@ The fundamental goal of this 1-year research project is to develop a simple reci
 
 # Data summaries
 
+The notion of a "document" varies greatly between studies: some focus on social media, where a document may be a tweet, while others consider novels or volumes of historical records.
+
 ## Early Colonial American Publications (2.2m documents, 1.4b words)
 
-## Cuneiform Correspondence from El Amarna
+## Cuneiform Correspondence from El Amarna (330k documents, 6.4m words)
 
-## Smoking and Vaping
+## Smoking and Vaping (109k documents, 4.3m words)
 
-## Med Student Professional Awareness
+## Med Student Professional Awareness (715k documents, 25m words)
 
-## COVID Misinformation on Social Media
+## COVID Misinformation on Social Media (319k documents, 8.3m words)
 
-## Mental Health in Hispanic Populations
+## Mental Health in Hispanic Populations (7.9m documents, 125m words)
 
-## Narratives from Medical Professionals
+## Narratives from Medical Professionals (13 documents, 977k words)
 
-## Early Methodist Minutes
+## Early Methodist Minutes (32 documents, 8.3m words)
+
