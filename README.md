@@ -4,7 +4,7 @@ The fundamental goal of this 1-year research project is to develop a simple reci
 
 # Data summaries
 
-## Early Colonial American Publications
+## Early Colonial American Publications (2.2m documents, 1.4b words)
 
 ## Cuneiform Correspondence from El Amarna
 
