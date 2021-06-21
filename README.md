@@ -32,7 +32,7 @@ Reddit posts and comments from forums devoted to users enrolled in premed, med s
 Twitter data matching COVID-related keywords and (partially) annotated by BSPH researchers, plus Reddit comments/posts from forums devoted to the pandemic.  I;; include creation timestamps.
 
 ## Mental Health in Hispanic Populations (7.9m documents, 125m words)
-**Michelle Kaufman (BSPH)**
+**Michelle Kaufman, Maithily Diaz (BSPH)**
 
 Twitter data matching mental health keywords in English and Spanish *and* including the word "california" (directly or in the user profile, excluding "baja california").  Reddit posts and comments from the "California" and "hispanic" forums.
 
