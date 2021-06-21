@@ -7,7 +7,7 @@ The fundamental goal of this 1-year research project is to develop a simple reci
 The notion of a "document" varies greatly between studies: some focus on social media, where a document may be a tweet, while others consider novels or volumes of historical records.  The larger documents will be split into shorter elements, ideally paragraphs, or just evenly-spaced intervals, for the purposes of topic modeling.
 
 ## Early Colonial American Publications (56k documents, 1.4b words)
-**Sharon Achinstein, Daniel McClur (English)**
+**Sharon Achinstein, Daniel McClurkin (English)**
 
 Combination of Early English Books Online and Eighteenth Century Collection Online.  Includes authorship and publication date, hopefully we can also infer sufficient geographic information to consider that axis as well.
 
