@@ -6,7 +6,7 @@ The fundamental goal of this 1-year research project is to develop a simple reci
 
 The notion of a "document" varies greatly between studies: some focus on social media, where a document may be a tweet, while others consider novels or volumes of historical records.
 
-## Early Colonial American Publications (2.2m documents, 1.4b words)
+## Early Colonial American Publications (56k documents, 1.4b words)
 
 ## Cuneiform Correspondence from El Amarna (330k documents, 6.4m words)
 
