@@ -8,7 +8,7 @@ The notion of a "document" varies greatly between studies: some focus on social 
 
 ## Early Colonial American Publications (56k documents, 1.4b words)
 
-Includes authorship and publication date, hopefully we can also infer sufficient geographic information to consider that axis as well.
+Combination of Early English Books Online and Eighteenth Century Collection Online.  Includes authorship and publication date, hopefully we can also infer sufficient geographic information to consider that axis as well.
 
 ## Cuneiform Correspondence from El Amarna (330k documents, 6.4m words)
 
